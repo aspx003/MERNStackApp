@@ -1,0 +1,9 @@
+# Node.js dependencies
+/node_modules
+
+# Optional: Logs and debugging files
+npm-debug.log
+yarn-error.log
+
+# Optional: Yarn v2+ (Berry) pnp files
+.pnp.*
